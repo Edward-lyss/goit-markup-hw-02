@@ -24,6 +24,7 @@ h2 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 h3 {
@@ -112,7 +113,7 @@ p {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.1;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -129,7 +130,7 @@ p {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /* -----------------HERO--------------------   */
@@ -159,10 +160,12 @@ p {
 /* --------------------TEAM-------------------- */
 
 .team {
+  background-color: #f4f4fd;
 }
 .team-title {
 }
 .team-list {
+  background-color: #ffffff;
 }
 .team-item {
 }
