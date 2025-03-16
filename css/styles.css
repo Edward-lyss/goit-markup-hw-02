@@ -17,7 +17,7 @@ button {
   cursor: pointer;
 }
 
-h2 {
+.section-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -27,7 +27,7 @@ h2 {
   text-transform: capitalize;
 }
 
-h3 {
+.section-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -35,7 +35,7 @@ h3 {
   color: #2e2f42;
 }
 
-p {
+.section-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -210,9 +210,6 @@ p {
 }
 
 .footer-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 
